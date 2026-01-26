@@ -1,20 +1,79 @@
-# 💫 About Me:
-👨‍🎓 currently in college <br>👨‍💻 frontend developer<br>🕸 Ai addicted<br>
+# Asalamoalikum 👋
 
+# I'm Hammad — Caffeine & Vibe Code Specialist ☕
 
-## 🌐 Socials:
-[Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white/hammadamjad.com) 
+> *In a world where English is the hottest new programming language, I focus on the 'what' and the 'why.' I build software by guiding AI through complex architectures to create seamless, user-centric experiences.*
 
-# 💻 Tech Stack:
-(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
-# 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad7128&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+I'm a passionate developer who loves creating things that make a difference. My journey in tech started with curiosity and has evolved into a commitment to build meaningful projects that solve real problems.
 
-<br/>  
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hammad7128 &limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 I believe in **learning by doing**, **shipping fast**, and **iterating based on feedback**. Whether it's a small script or a full application, my focus is always on creating value.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hammad7128 &icon=0&color=0)](https://visitcount.itsvg.in
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![APIs](https://img.shields.io/badge/-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Design & Tools
+- UI/UX Design
+- Prototyping
+- AI-Assisted Development
+
+---
+
+## 💼 Featured Projects
+
+### 🎨 [Personal Portfolio](https://hammadamjad.netlify.app)
+Personal portfolio website for talent showcase built by vibe coding using vanilla JavaScript for speed and simplicity.
+
+**Tech Stack:** JavaScript • HTML/CSS • Netlify
+
+---
+
+### 👥 PROPROGRAMMERS Community
+**Role:** Co-Founder
+
+Building a community of passionate programmers focused on growth, learning, and collaboration in the tech industry. Creating spaces where developers can connect, share knowledge, and grow together.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad7128&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad7128&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently
+
+- 🔭 Working on innovative projects that blend traditional development with AI-assisted coding
+- 🌱 Growing the PROPROGRAMMERS community
+- 💡 Exploring new ways to leverage AI in software architecture
+- 📝 Sharing insights and learnings with the developer community
+
+---
+
+## 📫 Let's Connect
+
+I'm always down to chat about projects, collaboration opportunities, or just to say hi!
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadamajd7128@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammadamjad7128)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://hammadamjad.netlify.app)
+
+---
