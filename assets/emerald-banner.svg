@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-<title id="title">Hammad Amjad — Developer and builder</title><desc id="desc">Emerald and jade gradient banner. Web development, Python automation, and community.</desc>
+<title id="title">Hammad Amjad — Developer and builder</title><desc id="desc">Emerald and jade gradient banner. Web development and Python automation.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#041e19"/><stop offset=".52" stop-color="#064e3b"/><stop offset="1" stop-color="#059669"/></linearGradient>
 <linearGradient id="gem" x2=".8" y2="1"><stop stop-color="#a7f3d0"/><stop offset=".45" stop-color="#34d399"/><stop offset="1" stop-color="#047857"/></linearGradient>
@@ -17,7 +17,7 @@
 <text x="67" y="214" fill="#a7f3d0" font-family="Arial, sans-serif" font-size="25">Curiosity into code. Ideas into useful tools.</text>
 <path d="M67 251H128" stroke="#34d399" stroke-width="3"/>
 <text x="67" y="291" fill="#ecfdf5" font-family="Arial, sans-serif" font-size="16" letter-spacing="1">WEB DEVELOPMENT  /  PYTHON AUTOMATION</text>
-<text x="67" y="344" fill="#a7f3d0" font-family="Arial, sans-serif" font-size="14">Developer · Community co-founder · Always learning</text>
+<text x="67" y="344" fill="#a7f3d0" font-family="Arial, sans-serif" font-size="14">Developer · Always learning</text>
 <g transform="translate(945 95)">
 <path d="M0 60L60 0H180L240 60L120 224Z" fill="url(#gem)" stroke="#a7f3d0" stroke-width="2"/>
 <path d="M0 60H240M60 0L80 60L120 224L160 60L180 0M80 60L120 0L160 60" fill="none" stroke="#ecfdf5" stroke-opacity=".5" stroke-width="2"/>
