@@ -14,8 +14,6 @@ I'm Hammad. I build websites and Python tools that make everyday tasks easier. I
 
 Most of my learning happens while building. I use AI-assisted development as part of that process, alongside prototyping, testing, and figuring out how the pieces fit together.
 
-I'm also the **co-founder of PROPROGRAMMERS**, a community where beginners can ask questions, share their work, and learn together.
-
 ## My toolkit
 
 <p>
@@ -32,13 +30,11 @@ I'm also the **co-founder of PROPROGRAMMERS**, a community where beginners can a
 | Project | What it's about | Explore |
 | :--- | :--- | :--- |
 | **Personal portfolio** | A home for my work, built with HTML, CSS, and vanilla JavaScript. | [Visit website ↗](https://hammadamjad.netlify.app) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
-| **PROPROGRAMMERS** | A programming community built around learning, collaboration, and helping beginners get started. | Co-founder |
 
 ## On my desk right now
 
 - Building practical web projects and small automation tools.
 - Exploring how AI can help with software design and development.
-- Growing PROPROGRAMMERS and learning alongside other developers.
 
 ## GitHub activity
 
