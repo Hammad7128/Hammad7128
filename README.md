@@ -40,18 +40,16 @@ I'm also the **co-founder of PROPROGRAMMERS**, a community where beginners can a
 - Exploring how AI can help with software design and development.
 - Growing PROPROGRAMMERS and learning alongside other developers.
 
-<details>
-<summary><b>GitHub activity</b></summary>
-<br />
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad7128&amp;show_icons=true&amp;hide_border=true&amp;bg_color=022C22&amp;title_color=6EE7B7&amp;icon_color=34D399&amp;text_color=D1FAE5&amp;border_radius=16" height="165" alt="Hammad's public GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad7128&amp;layout=compact&amp;hide_border=true&amp;bg_color=022C22&amp;title_color=6EE7B7&amp;text_color=D1FAE5&amp;border_radius=16" height="165" alt="Languages used in Hammad's public repositories" />
+  <img src="./assets/github-stats.svg" width="49%" alt="Public GitHub repositories, stars, forks and followers" />
+  <img src="./assets/github-languages.svg" width="49%" alt="Most used languages by code bytes in public non-fork repositories" />
 </p>
 
-[Browse my repositories directly ↗](https://github.com/Hammad7128?tab=repositories)
+*Snapshot date is shown on each card.*
 
-</details>
+[Browse my repositories ↗](https://github.com/Hammad7128?tab=repositories)
 
 ## Have something in mind?
 
