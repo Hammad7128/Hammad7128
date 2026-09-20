@@ -1,75 +1,62 @@
-# Asalamoalikum 👋
+<p align="center">
+  <img src="./assets/emerald-banner.svg" width="100%" alt="Hammad Amjad — Curiosity into code. Ideas into useful tools." />
+</p>
 
-# I'm Hammad — Caffeine & Vibe Code Specialist ☕
+<p align="center">
+  <a href="https://hammadamjad.netlify.app"><img src="https://img.shields.io/badge/Portfolio-065F46?style=for-the-badge&amp;logo=netlify&amp;logoColor=D1FAE5" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hammadamjad7128"><img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:hammadamajd7128@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-059669?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+</p>
 
-> *In a world where English is the hottest new programming language, I focus on the 'what' and the 'why.' I build software by guiding AI through complex architectures to create seamless, user-centric experiences.*
+## A little about me
 
-I'm a passionate developer who loves creating things that make a difference. My journey in tech started with curiosity and has evolved into a commitment to build meaningful projects that solve real problems.
+I'm Hammad. I build websites and Python tools that make everyday tasks easier. I enjoy turning a rough idea into something people can actually use, then improving it through feedback.
 
-🚀 I believe in **learning by doing**, **shipping fast**, and **iterating based on feedback**. Whether it's a small script or a full application, my focus is always on creating value.
+Most of my learning happens while building. I use AI-assisted development as part of that process, alongside prototyping, testing, and figuring out how the pieces fit together.
 
----
+I'm also the **co-founder of PROPROGRAMMERS**, a community where beginners can ask questions, share their work, and learn together.
 
-## 🛠️ Technical Skills
+## My toolkit
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-064E3B?style=for-the-badge&amp;logo=html5&amp;logoColor=6EE7B7" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-065F46?style=for-the-badge&amp;logo=css&amp;logoColor=A7F3D0" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-047857?style=for-the-badge&amp;logo=javascript&amp;logoColor=ECFDF5" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-059669?style=for-the-badge&amp;logo=python&amp;logoColor=FFFFFF" alt="Python" />
+</p>
 
-### Automation
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**What I enjoy:** frontend development · automation · UI/UX design · prototyping
 
-### Design & Tools
-- UI/UX Design
-- Prototyping
-- AI-Assisted Development
+## Things I'm building
 
----
+| Project | What it's about | Explore |
+| :--- | :--- | :--- |
+| **Personal portfolio** | A home for my work, built with HTML, CSS, and vanilla JavaScript. | [Visit website ↗](https://hammadamjad.netlify.app) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
+| **PROPROGRAMMERS** | A programming community built around learning, collaboration, and helping beginners get started. | Co-founder |
 
-## 💼 Featured Projects
+## On my desk right now
 
-### 🎨 [Personal Portfolio](https://hammadamjad.netlify.app)
-Personal portfolio website for talent showcase built by vibe coding using vanilla JavaScript for speed and simplicity.
+- Building practical web projects and small automation tools.
+- Exploring how AI can help with software design and development.
+- Growing PROPROGRAMMERS and learning alongside other developers.
 
-**Tech Stack:** JavaScript • HTML/CSS • Netlify
+<details>
+<summary><b>GitHub activity</b></summary>
+<br />
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammad7128&amp;show_icons=true&amp;hide_border=true&amp;bg_color=022C22&amp;title_color=6EE7B7&amp;icon_color=34D399&amp;text_color=D1FAE5&amp;border_radius=16" height="165" alt="Hammad's public GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad7128&amp;layout=compact&amp;hide_border=true&amp;bg_color=022C22&amp;title_color=6EE7B7&amp;text_color=D1FAE5&amp;border_radius=16" height="165" alt="Languages used in Hammad's public repositories" />
+</p>
 
-### 👥 PROPROGRAMMERS Community
-**Role:** Co-Founder
+[Browse my repositories directly ↗](https://github.com/Hammad7128?tab=repositories)
 
-Building a community of passionate programmers focused on growth, learning, and collaboration in the tech industry. Creating spaces where developers can connect, share knowledge, and grow together.
+</details>
 
----
+## Have something in mind?
 
-## 📊 GitHub Stats
+I'm happy to talk about websites, automation, or a project you're figuring out.
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad7128&show_icons=true&theme=radical&hide_border=true&count_private=true)
+**[Portfolio](https://hammadamjad.netlify.app)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/hammadamjad7128)** &nbsp; / &nbsp; **[Email](mailto:hammadamajd7128@gmail.com)**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad7128&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🌱 Currently
-
-- 🔭 Working on innovative projects that blend traditional development with AI-assisted coding
-- 🌱 Growing the PROPROGRAMMERS community
-- 💡 Exploring new ways to leverage AI in software architecture
-- 📝 Sharing insights and learnings with the developer community
-
----
-
-## 📫 Let's Connect
-
-I'm always down to chat about projects, collaboration opportunities, or just to say hi!
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadamajd7128@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammadamjad7128)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://hammadamjad.netlify.app)
-
----
+<img src="./assets/emerald-footer.svg" width="100%" alt="Good ideas deserve to be built. Let's make something useful." />
