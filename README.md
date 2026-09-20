@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hammadamjad.netlify.app"><img src="https://img.shields.io/badge/Portfolio-065F46?style=for-the-badge&amp;logo=netlify&amp;logoColor=D1FAE5" alt="Visit my portfolio" /></a>
+  <a href="https://hammad.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-065F46?style=for-the-badge&amp;logo=netlify&amp;logoColor=D1FAE5" alt="Visit my portfolio" /></a>
   <a href="https://www.linkedin.com/in/hammadamjad7128"><img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:hammadamajd7128@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-059669?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
 </p>
