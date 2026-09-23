@@ -61,7 +61,7 @@ I'm also a **co-founder at [TechPrix](https://techprix.online)**.
   <img src="./assets/github-languages.svg" width="49%" alt="Most used languages by code bytes in public non-fork repositories" />
 </p>
 
-*These cards are a manually refreshed snapshot, not live activity. Languages reflect code in public, non-fork repositories—not my full skill set.*
+*Stats refresh automatically each day. The latest successful update date appears on each card. Languages reflect code in public, non-fork repositories—not my full skill set.*
 
 [Repositories ↗](https://github.com/Hammad7128?tab=repositories) · [Pull requests ↗](https://github.com/pulls?q=is%3Apr+author%3AHammad7128) · [Contribution activity ↗](https://github.com/Hammad7128?tab=overview)
 
