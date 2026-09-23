@@ -36,9 +36,18 @@ I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 
 ## Company
 
-**[TechPrix](https://techprix.online) · Co-founder**
-
-[Visit our company website ↗](https://techprix.online)
+<table>
+  <tr>
+    <td width="140" align="center">
+      <a href="https://techprix.online"><img src="./assets/techprix-logo.jpg" width="120" alt="TechPrix company logo" /></a>
+    </td>
+    <td>
+      <h3><a href="https://techprix.online">TechPrix</a></h3>
+      <p><strong>Co-founder</strong></p>
+      <a href="https://techprix.online">Visit our company website ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## On my desk right now
 
