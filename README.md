@@ -15,7 +15,7 @@ I'm Hammad. I build websites and Python tools that make everyday tasks easier. I
 
 Most of my learning happens while building. I use AI-assisted development as part of that process, alongside prototyping, testing, and figuring out how the pieces fit together.
 
-I'm also working on **[TechPrix](https://techprix.online)**.
+I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 
 ## My toolkit
 
@@ -34,7 +34,11 @@ I'm also working on **[TechPrix](https://techprix.online)**.
 | :--- | :--- | :--- |
 | **Personal portfolio** | A home for my work, built with HTML, CSS, and vanilla JavaScript. | [Visit website ↗](https://hammadamjad.netlify.app) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
 
-| **TechPrix** | My web project at techprix.online. | [Visit TechPrix ↗](https://techprix.online) |
+## Company
+
+**[TechPrix](https://techprix.online) · Co-founder**
+
+[Visit our company website ↗](https://techprix.online)
 
 ## On my desk right now
 
