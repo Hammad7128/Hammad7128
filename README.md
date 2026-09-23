@@ -11,9 +11,9 @@
 
 ## A little about me
 
-I'm Hammad. I build websites and Python tools that make everyday tasks easier. I enjoy turning a rough idea into something people can actually use, then improving it through feedback.
+I'm Hammad, an Applied Computing student focused on **DevOps and networking**. I'm interested in how systems communicate, how applications are deployed, and what keeps services reliable.
 
-Most of my learning happens while building. I use AI-assisted development as part of that process, alongside prototyping, testing, and figuring out how the pieces fit together.
+I learn through hands-on practice: working through network configurations, troubleshooting connections, and exploring deployment workflows. My goal is to understand the infrastructure behind an application as well as the code that runs on it.
 
 I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 
@@ -28,11 +28,11 @@ I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 
 **What I enjoy:** frontend development · automation · UI/UX design · prototyping
 
-## Things I'm building
+## My work
 
 | Project | What it's about | Explore |
 | :--- | :--- | :--- |
-| **Personal portfolio** | A home for my work, built with HTML, CSS, and vanilla JavaScript. | [Visit website ↗](https://hammadamjad.netlify.app) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
+| **Personal portfolio** | A home for my projects and learning journey. | [Visit website ↗](https://hammadamjad.netlify.app) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
 
 ## Company
 
@@ -51,8 +51,9 @@ I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 
 ## On my desk right now
 
-- Building practical web projects and small automation tools.
-- Exploring how AI can help with software design and development.
+- Strengthening my networking fundamentals through configuration and troubleshooting practice.
+- Learning DevOps practices, including version control, CI/CD, and deployment workflows.
+- Exploring how infrastructure and networking support reliable applications.
 
 ## GitHub overview
 
@@ -67,7 +68,7 @@ I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 
 ## Have something in mind?
 
-I'm happy to talk about websites, automation, or a project you're figuring out.
+I'm happy to connect about DevOps, networking, infrastructure, or a hands-on project we can learn from together.
 
 **[Portfolio](https://hammadamjad.netlify.app)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/hammadamjad7128)** &nbsp; / &nbsp; **[Email](mailto:hammadamajd7128@gmail.com)**
 
