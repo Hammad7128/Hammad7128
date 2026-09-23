@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://hammad.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-065F46?style=for-the-badge&amp;logo=netlify&amp;logoColor=D1FAE5" alt="Visit my portfolio" /></a>
+  <a href="https://techprix.online"><img src="https://img.shields.io/badge/TechPrix-047857?style=for-the-badge&amp;logoColor=white" alt="Visit TechPrix" /></a>
   <a href="https://www.linkedin.com/in/hammadamjad7128"><img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:hammadamajd7128@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-059669?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
 </p>
@@ -13,6 +14,8 @@
 I'm Hammad. I build websites and Python tools that make everyday tasks easier. I enjoy turning a rough idea into something people can actually use, then improving it through feedback.
 
 Most of my learning happens while building. I use AI-assisted development as part of that process, alongside prototyping, testing, and figuring out how the pieces fit together.
+
+I'm also working on **[TechPrix](https://techprix.online)**.
 
 ## My toolkit
 
@@ -30,6 +33,8 @@ Most of my learning happens while building. I use AI-assisted development as par
 | Project | What it's about | Explore |
 | :--- | :--- | :--- |
 | **Personal portfolio** | A home for my work, built with HTML, CSS, and vanilla JavaScript. | [Visit website ↗](https://hammadamjad.netlify.app) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
+
+| **TechPrix** | My web project at techprix.online. | [Visit TechPrix ↗](https://techprix.online) |
 
 ## On my desk right now
 
