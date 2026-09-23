@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/emerald-banner.svg" width="100%" alt="Hammad Amjad — Curiosity into code. Ideas into useful tools." />
+  <img src="./assets/devops-networking-banner.svg" width="100%" alt="Hammad Amjad — DevOps and Networking. Connecting systems. Building reliability." />
 </p>
 
 <p align="center">
