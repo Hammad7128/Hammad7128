@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/devops-networking-banner.svg" width="100%" alt="Hammad Amjad — DevOps and Networking. Connecting systems. Building reliability." />
+  <img src="./assets/charcoal-banner.svg" width="100%" alt="Hammad Amjad — DevOps and Networking. Connecting systems. Building reliability." />
 </p>
 
 <p align="center">
-  <a href="https://hammad.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-065F46?style=for-the-badge&amp;logo=netlify&amp;logoColor=D1FAE5" alt="Visit my portfolio" /></a>
-  <a href="https://techprix.online"><img src="https://img.shields.io/badge/TechPrix-047857?style=for-the-badge&amp;logoColor=white" alt="Visit TechPrix" /></a>
-  <a href="https://www.linkedin.com/in/hammadamjad7128"><img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:hammadamajd7128@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-059669?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+  <a href="https://hammad.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&amp;logo=netlify&amp;logoColor=C7C7C7" alt="Visit my portfolio" /></a>
+  <a href="https://techprix.online"><img src="https://img.shields.io/badge/TechPrix-202020?style=for-the-badge&amp;logoColor=white" alt="Visit TechPrix" /></a>
+  <a href="https://www.linkedin.com/in/hammadamjad7128"><img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:hammadamajd7128@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-202020?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
 </p>
 
 ## A little about me
@@ -72,4 +72,4 @@ I'm happy to connect about DevOps, networking, infrastructure, or a hands-on pro
 
 **[Portfolio](https://hammadamjad.netlify.app)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/hammadamjad7128)** &nbsp; / &nbsp; **[Email](mailto:hammadamajd7128@gmail.com)**
 
-<img src="./assets/emerald-footer.svg" width="100%" alt="Good ideas deserve to be built. Let's make something useful." />
+<img src="./assets/charcoal-footer.svg" width="100%" alt="Connecting systems. Building reliability." />

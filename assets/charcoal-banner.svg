@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Hammad Amjad — DevOps and Networking</title>
+<desc id="desc">Charcoal background with a subtle blue grid, muted typography and a green status dot. Co-founder at TechPrix.</desc>
+<defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#19232e" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="420" fill="#101010"/>
+<rect x="1" y="1" width="1278" height="418" fill="url(#grid)" stroke="#20252b"/>
+<g font-family="Arial, sans-serif">
+<circle cx="77" cy="55" r="5" fill="#0f8065"/><text x="93" y="60" fill="#969696" font-size="15">DevOps &amp; Networking</text>
+<text x="72" y="128" fill="#dedede" font-size="27" font-weight="700">Asalamoalikum,</text>
+<text x="68" y="205" fill="#c7c7c7" font-size="68" font-weight="700" letter-spacing="-2">Hammad here!</text>
+<text x="72" y="255" fill="#a0a0a0" font-size="26">Connecting systems. Building reliability.</text>
+<text x="72" y="302" fill="#929292" font-size="18">Exploring infrastructure, deployment workflows, and the networks behind them.</text>
+<text x="72" y="369" fill="#929292" font-size="16">DevOps</text>
+<text x="172" y="369" fill="#929292" font-size="16">Networking</text>
+<text x="301" y="369" fill="#929292" font-size="16">Co-founder at TechPrix</text>
+</g>
+</svg>
