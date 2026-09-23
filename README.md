@@ -45,16 +45,16 @@ I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 - Building practical web projects and small automation tools.
 - Exploring how AI can help with software design and development.
 
-## GitHub activity
+## GitHub overview
 
 <p align="center">
   <img src="./assets/github-stats.svg" width="49%" alt="Public GitHub repositories, stars, forks and followers" />
   <img src="./assets/github-languages.svg" width="49%" alt="Most used languages by code bytes in public non-fork repositories" />
 </p>
 
-*Snapshot date is shown on each card.*
+*These cards are a manually refreshed snapshot, not live activity. Languages reflect code in public, non-fork repositories—not my full skill set.*
 
-[Browse my repositories ↗](https://github.com/Hammad7128?tab=repositories)
+[Repositories ↗](https://github.com/Hammad7128?tab=repositories) · [Pull requests ↗](https://github.com/pulls?q=is%3Apr+author%3AHammad7128) · [Contribution activity ↗](https://github.com/Hammad7128?tab=overview)
 
 ## Have something in mind?
 
