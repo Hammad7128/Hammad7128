@@ -32,7 +32,7 @@ I'm also a **co-founder at [TechPrix](https://techprix.online)**.
 
 | Project | What it's about | Explore |
 | :--- | :--- | :--- |
-| **Personal portfolio** | A home for my projects and learning journey. | [Visit website ↗](https://hammadamjad.netlify.app) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
+| **Personal portfolio** | A home for my projects and learning journey. | [Visit website ↗](https://hammad.is-a.dev) · [Source code ↗](https://github.com/Hammad7128/protfolio) |
 
 ## Company
 
